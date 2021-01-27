@@ -131,7 +131,7 @@ module.exports = {
 1. 安装 `@umijs/plugin-antd` 插件;
 
    ```bash
-   $ npm i @umijs/plugin-antd -D
+   npm i @umijs/plugin-antd -D
    ```
 
 2. 配置 `dark` 和 `compact`。
